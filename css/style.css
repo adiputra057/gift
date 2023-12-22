@@ -69,6 +69,8 @@ body{
     text-decoration: none;
     font-size: 1rem;
     color: #111;
+    font-weight: bold;
+    padding: 10px;
 }
 
 @media screen and (max-width:574px){
@@ -82,7 +84,7 @@ body{
         font-size: 1rem;
     }
     
-    .button a{
+    .button {
         font-size: .5rem;
     }
 }
